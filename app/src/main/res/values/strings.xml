@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">laba1</string>
+    <string name="button">Войти</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Список рецептов</string>
+    <string name="menu_gallery">Выбранный рецепт</string>
+    <string name="menu_slideshow">Любимые рецепты</string>
+
+    <string-array name="reciepts">
+        <item>A</item>
+        <item>B</item>
+        <item>D</item>
+        <item>C</item>
+        <item>Recipie 5</item>
+        <item>Somethins 6</item>
+        <item>I dont know 7</item>
+        <item>Something 8</item>
+        <item>Else 9</item>
+        <item>What 10</item>
+        <item>Who 11</item>
+        <item>D 12</item>
+        <item>F 13</item>
+        <item>E 14</item>
+        <item>G 15</item>
+        <item>J 16</item>
+        <item>K 17</item>
+        <item>H 18</item>
+        <item>m 19</item>
+        <item>p 20</item>
+        <item>r 21</item>
+        <item>y 22</item>
+        <item>u 23</item>
+        <item>j 24</item>
+        <item>n 25</item>
+    </string-array>
+</resources>
